@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-.yarn/install-state.gz
-.yarn
 
 # testing
 /coverage
@@ -40,5 +38,3 @@ next-env.d.ts
 
 # local files / configs
 *.local*
-
-log.md
